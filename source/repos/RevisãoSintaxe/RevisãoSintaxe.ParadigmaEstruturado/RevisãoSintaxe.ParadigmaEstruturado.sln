@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisãoSintaxe.ParadigmaEstruturado", "RevisãoSintaxe.ParadigmaEstruturado\RevisãoSintaxe.ParadigmaEstruturado.csproj", "{B5951CF6-DFC0-478F-96A6-B7E516A72563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5951CF6-DFC0-478F-96A6-B7E516A72563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5951CF6-DFC0-478F-96A6-B7E516A72563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5951CF6-DFC0-478F-96A6-B7E516A72563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5951CF6-DFC0-478F-96A6-B7E516A72563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2D77C2B-6ECC-44EE-9D88-5C1E623B8539}
+	EndGlobalSection
+EndGlobal
