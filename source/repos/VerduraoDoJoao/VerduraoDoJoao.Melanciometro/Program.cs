@@ -1,62 +1,79 @@
 ﻿using System;
+using System.Security.Permissions;
+using System.Web;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+
+
 
 namespace VerduraoDoJoao.Melanciometro
 {
+
+
     internal class Program
     {
+
         static void Main(string[] args)
         {
-            // Matriz de produtos
-            string[,] produtos = new string[2, 3] { { "Melancia Comum", "5.50", "1" }, { "Melancia Baby", "8.56", "2" } };
+            string resp = "SIM";
 
-            // Contador de produtos
-            int numProdutos = 2;
 
-            Console.WriteLine("Escolha um produto:");
 
-            // Exibir produtos existentes
-            for (int i = 0; i < numProdutos; i++)
+            do
+
             {
-                Console.WriteLine($"{produtos[i, 2]} - {produtos[i, 0]} ({produtos[i, 1]})");
-            }
 
-            // Opção de adicionar novo produto
-            Console.WriteLine($"{numProdutos + 1} - Adicionar novo produto");
 
-            // Ler opção do usuário
-            int op = int.Parse(Console.ReadLine());
 
-            // Verificar se o usuário escolheu adicionar um novo produto
-            if (op == numProdutos + 1)
-            {
-                Console.WriteLine("Digite as informações do novo produto:");
+                Console.WriteLine(" 1- Melancia Comum 2- Melancia baby");
+                int op = int.Parse(Console.ReadLine());
+                double preco, quatc, quatb, total;
 
-                // Ler informações do novo produto
-                Console.Write("Nome: ");
-                string nome = Console.ReadLine();
 
-                Console.Write("Preço: ");
-                string preco = Console.ReadLine();
+                if (op == 1)
+                {
+                    preco = 5.50;
+                    Console.WriteLine("Melancia Comum " + preco.ToString());
+                    Console.WriteLine("Quantos kilos você deseja?");
+                    quatc = int.Parse(Console.ReadLine());
+                    quatc = preco * quatc;
 
-                // Adicionar novo produto à matriz
-                
-                produtos[numProdutos, 0] = nome;
-                produtos[numProdutos, 1] = preco;
-                produtos[numProdutos, 2] = (numProdutos + 1).ToString();
+                    Console.WriteLine($"valor total:{quatc}");
+                }
+                else if (op == 2)
+                {
+                    preco = 8.56;
+                    Console.WriteLine("Melancia Baby " + preco.ToString());
+                    Console.WriteLine("Quantos kilos você deseja?");
+                    quatb = int.Parse(Console.ReadLine());
+                    quatb = preco * quatb;
 
-                numProdutos++;
-            }
-            else if (op >= 1 && op <= numProdutos)
-            {
-                // Exibir produto escolhido
-                Console.WriteLine($"Você escolheu: {produtos[op - 1, 0]} ({produtos[op - 1, 1]})");
-            }
-            else
-            {
-                Console.WriteLine("Opção inválida!");
-            }
+                    Console.WriteLine("valor total:" + quatb.ToString);
+                }
 
-            Console.ReadKey();
+                else
+
+                {
+
+                    Console.WriteLine("Digite 1 ");
+                    Console.WriteLine("ou");
+                    Console.WriteLine("Digite 2");
+
+                }
+
+
+                Console.WriteLine("Deseja sair? Sim ou não");
+                Console.ReadLine();
+
+
+            } while (resp != "SIM");
+
+
+
         }
     }
 }
