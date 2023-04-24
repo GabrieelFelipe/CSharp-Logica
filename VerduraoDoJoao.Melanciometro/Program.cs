@@ -42,9 +42,7 @@ namespace VerduraoDoJoao.Melanciometro
                 else
                 {
                     Console.WriteLine("Usuário ou senha incorretos. Tente novamente.");
-                    tentativas++;
-                    if (tentativas == 3)
-                    Console.WriteLine("Tentativas excedidas! Volte novamente mais tarde! ");
+                    tentativas++;                  
                 }
             }
 
