@@ -1,0 +1,8 @@
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4\bin\Debug\OrientacaoAObjetos.Dia4.exe.config
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4\bin\Debug\OrientacaoAObjetos.Dia4.exe
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4\bin\Debug\OrientacaoAObjetos.Dia4.pdb
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4\obj\Debug\OrientacaoAObjetos.Dia4.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4\obj\Debug\OrientacaoAObjetos.Dia4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4\obj\Debug\OrientacaoAObjetos.Dia4.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4\obj\Debug\OrientacaoAObjetos.Dia4.exe
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4\obj\Debug\OrientacaoAObjetos.Dia4.pdb

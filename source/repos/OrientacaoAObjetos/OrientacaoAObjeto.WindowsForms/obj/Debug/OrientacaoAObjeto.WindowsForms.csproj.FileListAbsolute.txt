@@ -1,0 +1,17 @@
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\bin\Debug\OrientacaoAObjeto.WindowsForms.exe.config
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\bin\Debug\OrientacaoAObjeto.WindowsForms.exe
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\bin\Debug\OrientacaoAObjeto.WindowsForms.pdb
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\bin\Debug\OrientacaoAObjetos.Dia2.dll
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\bin\Debug\OrientacaoAObjetos.Dia2.pdb
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\obj\Debug\OrientacaoAObjeto.WindowsForms.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\obj\Debug\OrientacaoAObjeto.WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\obj\Debug\OrientacaoAObjeto.WindowsForms.Properties.Resources.resources
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\obj\Debug\OrientacaoAObjeto.WindowsForms.csproj.GenerateResource.cache
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\obj\Debug\OrientacaoAObjeto.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\obj\Debug\OrientacaoAObjeto.WindowsForms.csproj.CopyComplete
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\obj\Debug\OrientacaoAObjeto.WindowsForms.exe
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\obj\Debug\OrientacaoAObjeto.WindowsForms.pdb
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\obj\Debug\OrientacaoAObjeto.WindowsForms.AulaConstrutores.resources
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\obj\Debug\OrientacaoAObjeto.WindowsForms.RevisaoConstrutores.resources
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\bin\Debug\OrientacaoAObjetos.Dia3.dll
+C:\Users\ALUNO\source\repos\OrientacaoAObjetos\OrientacaoAObjeto.WindowsForms\bin\Debug\OrientacaoAObjetos.Dia3.pdb
